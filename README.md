@@ -1,7 +1,7 @@
 # blurry-to-clear-loading-page
 
 
-Simple HTML-CSS-Javascript project where the page starts blurry at 30px and every 30 milliseconds, the image load up to 100% clearer.
+## Simple HTML-CSS-Javascript project where the page starts blurry at 30px and every 30 milliseconds, the image load up to 100% clearer.
 
 <img width="1138" alt="Screen Shot 2022-06-26 at 5 21 41 PM" src="https://user-images.githubusercontent.com/93716153/175835959-14153ddc-ca2e-4ce6-a4e4-e3b3f1bf79fa.png">
 <img width="1136" alt="Screen Shot 2022-06-26 at 5 21 54 PM" src="https://user-images.githubusercontent.com/93716153/175835961-4beb50a7-ad92-4a9e-9028-9210d704ee0f.png">
